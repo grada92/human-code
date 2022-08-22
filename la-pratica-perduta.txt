@@ -1,0 +1,12 @@
+Raccolgo i fogli in giro per l’ufficio
+
+FINCHE’ ci sono fogli rimasti
+inserisco il foglio nella stampante
+premo il pulsante scansiona
+SE il foglio ha un retro E NON è stato scansionato
+    ALLORA 
+	gira il foglio
+
+    ALTRIMENTI
+	do il nome al documento
+	cambia foglio
